@@ -1,5 +1,5 @@
 # Email-Verified-Discord-Tokens
-# These tokens are email verified Unlocked!
+# These tokens are Now Locked!
 # Star This Repo For More Tokens!
 
 
